@@ -1,0 +1,19 @@
+{
+  "name": "sails-upstream",
+  "version": "0.0.2",
+  "description": "upstream for sails framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wenjun Xiao",
+  "license": "MIT",
+  "keywords": [
+    "sails",
+    "upstream"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenjunxiao/sails-upstream.git"
+  }
+}
